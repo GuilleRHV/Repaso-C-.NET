@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../MainFiguras/MainFiguras.csproj" />
+  <Project Path="FigurasPatterns.csproj" />
+</Solution>
